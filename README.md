@@ -10,9 +10,9 @@ Se desea extraer la informacion de todos los productos de la misma, se necesita:
 
 * Nombre del producto _(name_product)_
 * Vendedor (si existe) _(seller)_
-* Precio anterior (si existe) _(before_price)_
-* Precio actual _(now_price)_
-* Descuento (si existe) _(dicount)_
+* Precio normal (si existe) _(before_price)_
+* Precio promocional _(now_price)_
+* Descuento (si existe) _(dsicount)_
 
 Se debe realizar el scrapeo de las 10 paginas (paginacion en la base de la pagina, **Mirar bien la URL**) Toda la informacion debe de ser almacenada en un archivo `csv` y `xlsx` (averiguar sobre la libreria pandas y openpyxl) realizar esta tarea haciendo uso de las librerias requests y Beautiful soup, obviamente se pueden agregar mas librerias, las que se requiera para el proyecto.
 
