@@ -27,4 +27,4 @@ Se debe realizar el scrapeo de las 10 paginas (paginacion en la base de la pagin
 Aclaracion: **Los archivos cvs y excel no se deben de subir a github**
 
 ## Aspectos a tener en cuenta
-Se debe de crear un entorno virtual, tambien se debera de realizar un pullrequests para poder mirar lo realizado antes de mergear el proyecto al main
+Se debe de crear un entorno virtual, tambien se debera de realizar un pullrequests a la rama dev.
