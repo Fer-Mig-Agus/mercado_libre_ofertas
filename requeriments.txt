@@ -1,1 +1,7 @@
+Aqui esta mal!!!
 python = Python 3.13.2
+
+Debes de colocar solo las librerias que usas con sus respectivas versiones
+Ejemplo:
+
+openpyxl == 3.1.5
